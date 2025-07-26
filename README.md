@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-  - Solution URL: [Main File](https://github.com/Sadab-Wasi/QR-code-component/blob/main/index.html)
-  - Live Site URL: [Add your live site URL here](https://qr-code-component-theta-murex.vercel.app/)
+  - [Solution URL](https://github.com/Sadab-Wasi/QR-code-component/blob/main/index.html)
+  - [Live Site URL](https://qr-code-component-theta-murex.vercel.app/)
 
 -----
 
